@@ -2,6 +2,7 @@
   "name": "booksearch",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://ldw5.github.io/booksearch",
   "engines": {
     "node": "14.18.0"
   },
@@ -24,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/ldw5/booksearch/issues"
   },
-  "homepage": "https://ldw5.github.io/booksearch",
   "devDependencies": {
     "concurrently": "^6.4.0"
   }
