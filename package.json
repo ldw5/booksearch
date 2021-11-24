@@ -26,6 +26,7 @@
     "url": "https://github.com/ldw5/booksearch/issues"
   },
   "devDependencies": {
-    "concurrently": "^6.4.0"
+    "concurrently": "^6.4.0",
+    "gh-pages": "^3.2.3"
   }
 }
